@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.wrap{
+    width: 856px;
+    display: flex;
+    margin: 0 auto;
+}
+.content{
+    width: 346px;
+    background: #B3D4D1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.content h1{
+    color: #FAFFFF;
+    font-size: 24px;
+    line-height: 1.5;
+    padding: 0 50px;
+}
+.pic{
+    width: 510px;
+    
+}
