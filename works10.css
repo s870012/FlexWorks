@@ -15,18 +15,15 @@
     gap: 24px;
     border: 1px solid #e7eeea;
 }
-.item-catalog{
-    width: 300px;
-}
 .catalog-title{
     color: #FFFFFF;
     background: #37523d;
-    text-align: center;
-    width: 300px;
 }
 .item-catalog p{
     text-align: center;
     width: 300px;
+    border: 1px solid #e7eeea;
+    padding: 16px 0;
 }
 .item-catalog p:hover:not(.catalog-title){
     background: #e7eeea;
